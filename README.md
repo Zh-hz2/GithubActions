@@ -144,3 +144,4 @@ In GitHub, that will look like the following:
 ![pr overview passed](./img/passed-pull.PNG)
 
 If everything passes, feel free to merge. You are now using CI.
+# Test commit
